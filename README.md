@@ -19,9 +19,12 @@ This app is particularly useful for people working in offices, helping them mana
 
 ## Screenshots
 
-![App Screen 1](https://user-images.githubusercontent.com/29853549/119227193-61dfa780-bb2a-11eb-873d-e8ef85bff714.png)
-![App Screen 2](https://user-images.githubusercontent.com/29853549/119227211-72901d80-bb2a-11eb-92bd-45cf17ce189f.png)
-![App Screen 3](https://user-images.githubusercontent.com/29853549/119227227-820f6680-bb2a-11eb-83dc-3660106e49b8.png)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/29853549/119227193-61dfa780-bb2a-11eb-873d-e8ef85bff714.png" alt="App Screen 1" style="margin-right: 10px;"/>
+  <img src="https://user-images.githubusercontent.com/29853549/119227211-72901d80-bb2a-11eb-92bd-45cf17ce189f.png" alt="App Screen 2" style="margin-right: 10px;"/>
+  <img src="https://user-images.githubusercontent.com/29853549/119227227-820f6680-bb2a-11eb-83dc-3660106e49b8.png" alt="App Screen 3" "/>
+</div>
+
 
 ## Tools and Technologies
 
