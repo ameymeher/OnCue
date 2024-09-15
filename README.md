@@ -29,8 +29,8 @@ This app is particularly useful for people working in offices, helping them mana
 ## Tools and Technologies
 
 - **Developing the Application:** Android (Java + XML)
-- **Database:** SQL
-- **Storage:** FTP
+- **Database:** MySql
+- **Storage:** FTP, Local Storage
 - **Authentication:** Facebook Auth (Mobile Login, Facebook Login)
 
 ## Features
