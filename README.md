@@ -3,7 +3,7 @@
 ## The Proximity-Based Reminder App
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/29853549/119227110-f8f82f80-bb29-11eb-8add-21c175e4e0ec.png" alt="Oncue Logo" width="100" height="100"/>
+<img src="images/oncue-logo.png" alt="Oncue Logo" width="100" height="100"/>
 </div>
 
 **Aim:** Develop an Android app that acts as a reminder system with a unique feature to remind users not only based on time but also based on people around them.
@@ -20,9 +20,22 @@ This app is particularly useful for people working in offices, helping them mana
 ## Screenshots
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/29853549/119227193-61dfa780-bb2a-11eb-873d-e8ef85bff714.png" alt="App Screen 1" style="margin-right: 10px;"/>
-  <img src="https://user-images.githubusercontent.com/29853549/119227211-72901d80-bb2a-11eb-92bd-45cf17ce189f.png" alt="App Screen 2" style="margin-right: 10px;"/>
-  <img src="https://user-images.githubusercontent.com/29853549/119227227-820f6680-bb2a-11eb-83dc-3660106e49b8.png" alt="App Screen 3" "/>
+  <img src="images/screen1.png" alt="App Screen 1" style="margin-right: 10px;"/>
+  <img src="images/screen2.png" alt="App Screen 2" style="margin-right: 10px;"/>
+  <img src="images/screen3.png" alt="App Screen 3" />
+</div>
+<br>
+<div align="center">
+  <img src="images/screen 7.jpg" alt="App Screen 7" width="50%" height="50%" style="margin-right: 10px;"/>
+</div>
+<br>
+<div align="center">
+  <img src="images/screen 4.jpg" alt="App Screen 4" width="30%" height="30%" style="margin-right: 10px;"/>
+  <img src="images/screen 5.JPG" alt="App Screen 5" width="30%" height="30%" style="margin-right: 10px;"/>
+</div>
+<br>
+<div align="center">
+  <img src="images/screen 6.JPG" alt="App Screen 6" width="50%" height="50%" style="margin-right: 10px;"/>
 </div>
 
 
@@ -38,6 +51,27 @@ This app is particularly useful for people working in offices, helping them mana
 - **Proximity-Based Reminders:** Notifications based on nearby people.
 - **Customizable Reminders:** Set reminders for specific people.
 - **Bluetooth Integration:** Detect nearby devices to trigger reminders.
+
+## Hackathon photos
+<br>
+<div align="center">
+<img src="images/trophy.png" alt="Winner photo" width="30%" height="30%"/>
+</div>
+<br>
+<br>
+<div align="center">
+<img src="images/winner.jpg" alt="Winner photo" width="60%" height="60%"/>
+</div>
+<br>
+<div align="center">
+<img src="images/discussion.jpg" alt="Discussion photo" width="30%" height="30%"/>
+<img src="images/discussion2.JPG" alt="Discussion photo" width="30%" height="30%"/>
+</div>
+<br>
+<div align="center">
+<img src="images/discussion3.JPG" alt="Discussion photo" width="30%" height="30%"/>
+<img src="images/discussion4.JPG" alt="Discussion photo" width="30%" height="30%"/>
+</div>
 
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
